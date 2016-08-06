@@ -1,0 +1,22 @@
+_repo: Frank-Roscoe-s-Secret--Or-the-Darewell-Chums-in-the-Woods_9854
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chapman, Allen
+    gutenberg_agent_id: '2575'
+    url: http://www.gutenberg.org/2009/agents/2575
+description: ''
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9854'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'High school students -- Juvenile fiction'
+- GITenberg
+title: Frank Roscoe's Secret; Or, the Darewell Chums in the Woods
+url: http://www.gutenberg.org/ebooks/9854
